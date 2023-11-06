@@ -1,0 +1,11 @@
+{
+  "name": "battery-component",
+  "version": "1.0.0",
+  "description": "The battery-component is a custom web component that displays a battery icon along with battery-related information",
+  "main": "src/index.js",
+  "module": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemant Agrawal"
+}
